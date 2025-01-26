@@ -1,0 +1,11 @@
+beautifulsoup4
+deepface
+matplotlib
+nltk
+pandas
+requests
+stanza
+transformers
+tf-keras
+wordcloud
+opencv-python

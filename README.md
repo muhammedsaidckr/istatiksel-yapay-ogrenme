@@ -29,10 +29,12 @@ DeepFace kütüphanesi kullanılarak yüz görüntüsü üzerinde yaş, cinsiyet
 
 ### Yaş Analizi:
 ![Age](./soru2_face_age.png "Yaş tahmini")
+
 DeepFace algoritması kişinin yaşını 32 olarak tahmin etmiştir.
 
 ### Cinsiyet Analizi:
 ![Gender](./soru2_face_gender.png "Cinsiyet tahmini")
+
 Sistem %100 oranında kadın olarak tespit etmiştir (Woman: 100.0, Man: 0.0).
 
 ### Duygu Analizi:
